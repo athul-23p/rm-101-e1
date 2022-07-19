@@ -1,3 +1,5 @@
 .taskHeader {
   /* Sample */
+  width: fit-content;
+  margin: auto;
 }

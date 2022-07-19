@@ -1,5 +1,8 @@
 .tasks {
   /* sample */
+  width: fit-content;
+  margin: 10px auto;
+  
 }
 
 .empty {
